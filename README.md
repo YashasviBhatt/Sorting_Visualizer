@@ -22,3 +22,8 @@ This project visualizes following sorting algorithms:
 
 
 **As mentioned, The project only visualizes _Swap-Based Sorting Algorithms_ but ideas are accepted on how to visualize _Non-Swap-Based Sorting Algorithms_ using same approach, make a pull request if you want to add your ideas/contribution and maintainers will look after it :blush:.**
+
+## Here is a small Demo
+<br>
+
+![Sorting_Visualizer](images/Sorting_Visualizer.gif "Sorting Visualizer by Yashasvi Bhatt")
